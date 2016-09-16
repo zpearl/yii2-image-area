@@ -1,0 +1,21 @@
+{
+    "name": "zpearl/yii2-image-area",
+    "description": "Upload image and select area based on imgAreaSelect jquery plugin",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zpearl",
+            "email": "zpearl80@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "zpearl\\imgarea\\": ""
+        }
+    }
+}
